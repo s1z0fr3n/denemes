@@ -199,7 +199,7 @@ async def play(_, message: Message):
         [
             [
                 InlineKeyboardButton("📚 Bilgi", url=f"https://t.me/ekipbotdestek"),
-                InlineKeyboardButton("📝 Grub", url=f"https://t.me/esilyolsohbet"),
+                InlineKeyboardButton("📝 Grub", url=f"https://t.me/yesilyolsohbet"),
             ],[
                 InlineKeyboardButton("✨ Kapat", callback_data="cls"),
             ],
@@ -264,7 +264,7 @@ async def play(_, message: Message):
         [
             [
                 InlineKeyboardButton("📚 Bilgi", url=f"https://t.me/ekipbotdestek"),
-                InlineKeyboardButton("📝 Grub", url=f"https://t.me/esilyolsohbet"),
+                InlineKeyboardButton("📝 Grub", url=f"https://t.me/yesilyolsohbet"),
             ],[
                 InlineKeyboardButton("✨ Kapat", callback_data="cls"),
             ],
