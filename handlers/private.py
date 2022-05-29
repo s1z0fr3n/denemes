@@ -53,7 +53,7 @@ async def bilgi(_, message: Message):
                          "🗯️ 𝖠𝗇𝖺 𝖬𝖾𝗇𝗎 ", callback_data="cbstart")
                  ],[
                      InlineKeyboardButton(
-                         "📩 𝐒𝐚𝐡𝐢𝐩", url="https://t.me/tgkadir")
+                         "📩 𝐒𝐚𝐡𝐢𝐩", url="https://t.me/Ekip_Emir25")
                  ]
              ]
          )
@@ -75,7 +75,7 @@ async def cbbilgi(_, query: CallbackQuery):
         ],
         [
           InlineKeyboardButton(
-            "📩 𝐒𝐚𝐡𝐢𝐩", url="https://t.me/tgkadir")
+            "📩 𝐒𝐚𝐡𝐢𝐩", url="https://t.me/Ekip_Emir25")
         ]
       ]
      ))
